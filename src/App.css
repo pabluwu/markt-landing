@@ -1,0 +1,19 @@
+:root {
+  --primary-color: #3C6EAF;
+  --secondary-color: #2EB67D;
+  --verde-oscuro: #156749;
+  --bg-color: #f3f6fc;
+  --placeholder: #95a0b6;
+  --celeste-1: #2e5a9b;
+  --celeste-2: #c9d8ee;
+  --border-1: #d4d4d8;
+  --white: #FFFFFF;
+  --black: #0f0f0f;
+  --font-size: 16px;
+  --gris: rgba(61, 37, 20, .08);
+  --spacing: 8px;
+}
+
+.pointer{
+  cursor: pointer !important;
+}
