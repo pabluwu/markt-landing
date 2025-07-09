@@ -12,7 +12,7 @@ const HeroSection = () => (
                 Markt facilita el acceso a información técnica confiable y conecta empresas industriales con IA y marketplace B2B especializado.
             </p>
             <div className="d-flex justify-content-center gap-3 mt-4">
-                <a href="https:/app.markt.cl/" target="_blank" className="btn btn-dark text-white fw-bold">
+                <a href="https://app.markt.cl/" target="_blank" className="btn btn-dark text-white fw-bold">
                     Comenzar ahora
                     <ArrowRight className="ps-2"/>
                 </a>
